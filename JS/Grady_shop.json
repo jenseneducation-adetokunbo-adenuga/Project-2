@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "name": "Headphones",
+      "price": "£120",
+      "picture": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "name": "Sunglasses",
+      "price": "£100",
+      "picture": "https://placeimg.com/640/480/arc"
+    },
+    {
+      "name": "Jacket",
+      "price": "£400",
+      "picture": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "name": "Jeans",
+      "price": "£110",
+      "picture": "https://placeimg.com/640/480/people"
+    },
+    {
+      "name": "Watch",
+      "price": "£300",
+      "picture": "https://placeimg.com/640/480/tech"
+    }
+  ],
+  "shoppingcart": [
+    {
+      "name": "Headphones",
+      "price": "£120",
+      "picture": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "name": "Jeans",
+      "price": "£110",
+      "picture": "https://placeimg.com/640/480/people"
+    }
+  ]
+}
