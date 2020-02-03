@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Black Boots",
+      "price": "SEK700",
+      "picture": "C:\\Users\\adeto\\Desktop\\Project-2\\img\\Black Boots.jpg"
+    },
+    {
+      "name": "Black Studded Boots",
+      "price": "SEK1700",
+      "picture": "C:\\Users\\adeto\\Desktop\\Project-2\\img\\Black Studded boots.jpg"
+    },
+    {
+      "name": "Grey Boots",
+      "price": "SEK1100",
+      "picture": "C:\\Users\\adeto\\Desktop\\Project-2\\img\\Grey Boots.jpg"
+    },
+    {
+      "name": "White High Boots",
+      "price": "SEK1200",
+      "picture": "C:\\Users\\adeto\\Desktop\\Project-2\\img\\White High Boots.jpg"
+    },
+    {
+      "name": "Yellow High Boots",
+      "price": "SEK1200",
+      "picture": "C:\\Users\\adeto\\Desktop\\Project-2\\img\\Yellow High Boots.jpg"
+    }
+  ],
+  "shoppingcart": []
+}
